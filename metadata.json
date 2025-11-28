@@ -1,0 +1,7 @@
+{
+  "name": "Smart Mirror Surprise",
+  "description": "An interactive smart mirror that helps you look your best... with a twisted surprise.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
